@@ -1,3 +1,6 @@
+Link to the api used is https://covid19.mathdro.id/api . It is a free api services. Thanks to the creator.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
